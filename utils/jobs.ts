@@ -6,7 +6,7 @@ import creative from "@/assets/logos/creative.svg";
 import crowdFund from "@/assets/logos/crowdfund.svg";
 import maker from "@/assets/logos/maker.svg";
 import masterCraft from "@/assets/logos/mastercraft.svg";
-import officeLite from "@/assets/logos/officeLite.svg";
+import officeLite from "@/assets/logos/officelite.svg";
 import pod from "@/assets/logos/pod.svg";
 import pomodoro from "@/assets/logos/pomodoro.svg";
 import typeMaster from "@/assets/logos/typemaster.svg";
